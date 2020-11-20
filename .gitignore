@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TestCLI/obj
+/ProcessingLibrary/bin/Debug/netcoreapp2.2
+/ProcessingLibrary/obj
+/ImageStorageLibrary/bin/Debug/netcoreapp2.2
+/ImageStorageLibrary/obj
